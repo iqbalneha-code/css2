@@ -177,5 +177,53 @@
     position: static ;
     border-radius: 2%;
    }
+   }
+   @media (max-width: 780px){
+  .left{
+   width: 100%;
+   position: static;
+   border-radius: 2%;
+  }
+ .left>img {
+  margin-left: 25%;
+}
+  .right{
+    width: 100%;
+    position: static ;
+    border-radius: 2%;
+   }
+   }
+   @media (max-width: 600px){
+  .left{
+   width: 100%;
+   position: static;
+   border-radius: 2%;
+  }
+ .left>img {
+  margin-left: 25%;
+}
+  .right{
+    width: 100%;
+    position: static ;
+    border-radius: 2%;
+   }
+
+   
+}
+   @media (max-width: 450px){
+  .left{
+   width: 100%;
+   position: static;
+   border-radius: 2%;
+  }
+ .left>img {
+  margin-left: 25%;
+}
+  .right{
+    width: 100%;
+    position: static ;
+    border-radius: 2%;
+   }
+   
    
 }
